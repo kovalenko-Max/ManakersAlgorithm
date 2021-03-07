@@ -1,0 +1,16 @@
+D:\Programming\Projects\ManakersAlgorithm\bin\Debug\net5.0\ManakersAlgorithm.exe
+D:\Programming\Projects\ManakersAlgorithm\bin\Debug\net5.0\ManakersAlgorithm.deps.json
+D:\Programming\Projects\ManakersAlgorithm\bin\Debug\net5.0\ManakersAlgorithm.runtimeconfig.json
+D:\Programming\Projects\ManakersAlgorithm\bin\Debug\net5.0\ManakersAlgorithm.runtimeconfig.dev.json
+D:\Programming\Projects\ManakersAlgorithm\bin\Debug\net5.0\ManakersAlgorithm.dll
+D:\Programming\Projects\ManakersAlgorithm\bin\Debug\net5.0\ref\ManakersAlgorithm.dll
+D:\Programming\Projects\ManakersAlgorithm\bin\Debug\net5.0\ManakersAlgorithm.pdb
+D:\Programming\Projects\ManakersAlgorithm\obj\Debug\net5.0\ManakersAlgorithm.csprojAssemblyReference.cache
+D:\Programming\Projects\ManakersAlgorithm\obj\Debug\net5.0\ManakersAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\ManakersAlgorithm\obj\Debug\net5.0\ManakersAlgorithm.AssemblyInfoInputs.cache
+D:\Programming\Projects\ManakersAlgorithm\obj\Debug\net5.0\ManakersAlgorithm.AssemblyInfo.cs
+D:\Programming\Projects\ManakersAlgorithm\obj\Debug\net5.0\ManakersAlgorithm.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\ManakersAlgorithm\obj\Debug\net5.0\ManakersAlgorithm.dll
+D:\Programming\Projects\ManakersAlgorithm\obj\Debug\net5.0\ref\ManakersAlgorithm.dll
+D:\Programming\Projects\ManakersAlgorithm\obj\Debug\net5.0\ManakersAlgorithm.pdb
+D:\Programming\Projects\ManakersAlgorithm\obj\Debug\net5.0\ManakersAlgorithm.genruntimeconfig.cache
