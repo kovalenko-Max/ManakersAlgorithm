@@ -1,0 +1,1 @@
+ManakersAlgorithm
